@@ -17,21 +17,26 @@ on:
           - paddleocr
           - easyocr
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   thai-ocr:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: 📥 Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         fetch-depth: 0
-    
+        token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: 🐍 Setup Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.11'
-    
+
     - name: 📦 Install Deep Learning OCR
       run: |
         # Install OCR model based on input
@@ -42,10 +47,10 @@ jobs:
           echo "Installing PaddleOCR..."
           pip install paddlepaddle paddleocr
         fi
-        
+
         # Install other dependencies
         pip install pillow numpy pandas tqdm
-    
+
     - name: 🔍 Run Thai OCR
       run: |
         python .github/workflows/run-thai-ocr.py \
@@ -53,25 +58,27 @@ jobs:
           --output-dir results \
           --model ${{ github.event.inputs.model || 'paddleocr' }} \
           --lang th
-    
+
     - name: 📊 Commit Results
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action - Thai OCR"
         git add results/ || true
-        git commit -m "📊 OCR Results: $(date +%Y-%m-%d-%H-%M)" || echo "No changes"
-        git push || echo "No changes to push"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
+        if ! git diff --staged --quiet; then
+          git commit -m "📊 OCR Results: $(date +%Y-%m-%d-%H-%M)"
+          git push origin HEAD --force || echo "Push failed but continuing"
+        else
+          echo "No changes to commit"
+        fi
+
     - name: 📤 Upload Results
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: ocr-results-${{ github.run_id }}
         path: |
           results/
         retention-days: 30
-    
+
     - name: 📈 Summary
       run: |
         echo "## 📊 OCR Summary" >> $GITHUB_STEP_SUMMARY
