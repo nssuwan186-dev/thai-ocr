@@ -1,0 +1,1607 @@
+[
+  {
+    "source_file": "0.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "1.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "10.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "100.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "101.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "102.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "103.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "104.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "105.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "106.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "107.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "108.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "109.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "11.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "110.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "111.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "112.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "113.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "114.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "115.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "116.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "117.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "118.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "119.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "12.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "120.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "121.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "122.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "123.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "124.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "125.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "126.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "127.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "128.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "129.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "13.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "130.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "131.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "132.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "133.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "134.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "135.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "136.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "137.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "138.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "139.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "14.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "140.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "141.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "142.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "143.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "144.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "145.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "146.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "147.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "148.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "149.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "15.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "150.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "151.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "152.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "153.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "154.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "155.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "156.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "157.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "158.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "159.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "16.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "160.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "161.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "162.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "163.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "164.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "165.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "166.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "167.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "168.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "169.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "17.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "170.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "171.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "172.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "173.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "174.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "175.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "176.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "177.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "178.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "179.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "18.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "180.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "181.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "182.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "183.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "184.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "185.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "186.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "187.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "188.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "189.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "19.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "190.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "191.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "192.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "193.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "194.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "195.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "196.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "197.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "198.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "199.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "2.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "20.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "200.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "201.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "202.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "203.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "204.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "205.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "206.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "207.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "208.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "209.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "21.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "210.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "211.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "212.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "213.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "214.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "215.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "216.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "217.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "218.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "219.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "22.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "220.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "221.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "222.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "223.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "224.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "225.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "226.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "227.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "228.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "229.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "23.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "230.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "231.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "232.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "233.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "234.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "235.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "236.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "237.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "238.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "239.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "24.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "240.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "241.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "242.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "243.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "244.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "245.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "246.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "247.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "248.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "249.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "25.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "250.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "251.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "252.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "253.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "254.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "255.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "256.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "257.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "258.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "259.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "26.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "260.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "261.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "262.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "263.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "264.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "265.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "266.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "267.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "268.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "269.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "27.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "270.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "271.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "272.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "273.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "274.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "275.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "276.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "277.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "278.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "279.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "28.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "280.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "281.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "282.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "283.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "284.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "285.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "286.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "287.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "288.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "289.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "29.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "290.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "291.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "292.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "293.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "294.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "295.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "296.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "297.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "298.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "299.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "3.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "30.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "300.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "301.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "302.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "303.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "304.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "305.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "306.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "307.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "308.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "309.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "31.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "310.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "311.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "312.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "313.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "314.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "315.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "316.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "317.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "318.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "319.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "32.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "320.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "33.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "34.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "35.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "36.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "37.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "38.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "39.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "4.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "40.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "41.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "42.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "43.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "44.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "45.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "46.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "47.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "48.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "49.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "5.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "50.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "51.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "52.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "53.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "54.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "55.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "56.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "57.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "58.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "59.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "6.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "60.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "61.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "62.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "63.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "64.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "65.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "66.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "67.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "68.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "69.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "7.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "70.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "71.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "72.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "73.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "74.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "75.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "76.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "77.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "78.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "79.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "8.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "80.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "81.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "82.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "83.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "84.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "85.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "86.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "87.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "88.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "89.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "9.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "90.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "91.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "92.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "93.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "94.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "95.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "96.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "97.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "98.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  },
+  {
+    "source_file": "99.jpg",
+    "error": "PaddleOCR.predict() got an unexpected keyword argument 'cls'",
+    "confidence": "0.00"
+  }
+]
