@@ -1,0 +1,88 @@
+name: 🇹🇭 Thai OCR with Deep Learning
+
+on:
+  push:
+    paths:
+      - 'images/**'
+      - 'uploads/**'
+      - 'drive-downloads/**'
+  workflow_dispatch:
+    inputs:
+      model:
+        description: 'OCR Model to use'
+        required: false
+        default: 'paddleocr'
+        type: choice
+        options:
+          - paddleocr
+          - easyocr
+
+jobs:
+  thai-ocr:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 Install Deep Learning OCR
+      run: |
+        # Install OCR model based on input
+        if [ "${{ github.event.inputs.model }}" == "easyocr" ]; then
+          echo "Installing EasyOCR..."
+          pip install easyocr
+        else
+          echo "Installing PaddleOCR..."
+          pip install paddlepaddle paddleocr
+        fi
+        
+        # Install other dependencies
+        pip install pillow numpy pandas tqdm
+    
+    - name: 🔍 Run Thai OCR
+      run: |
+        python .github/workflows/run-thai-ocr.py \
+          --input-dir images \
+          --output-dir results \
+          --model ${{ github.event.inputs.model || 'paddleocr' }} \
+          --lang th
+    
+    - name: 📊 Commit Results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Thai OCR"
+        git add results/ || true
+        git commit -m "📊 OCR Results: $(date +%Y-%m-%d-%H-%M)" || echo "No changes"
+        git push || echo "No changes to push"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: 📤 Upload Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: ocr-results-${{ github.run_id }}
+        path: |
+          results/
+        retention-days: 30
+    
+    - name: 📈 Summary
+      run: |
+        echo "## 📊 OCR Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Models Used" >> $GITHUB_STEP_SUMMARY
+        echo "- Model: ${{ github.event.inputs.model || 'paddleocr' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Language: Thai" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Results" >> $GITHUB_STEP_SUMMARY
+        if [ -f results/summary.json ]; then
+          cat results/summary.json >> $GITHUB_STEP_SUMMARY
+        else
+          echo "No summary available" >> $GITHUB_STEP_SUMMARY
+        fi
