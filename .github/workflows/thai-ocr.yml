@@ -42,7 +42,7 @@ jobs:
       if: github.event.inputs.model == 'typhoon' || github.event.inputs.model == ''
       run: |
         echo "Installing Typhoon OCR - Best for Thai Language..."
-        pip install typhoon-ocr
+        pip install typhoon-ocr transformers torch pillow tqdm
         echo "✅ Typhoon OCR installed"
 
     - name: 📦 Install PaddleOCR
