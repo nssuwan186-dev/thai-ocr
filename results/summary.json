@@ -1,0 +1,9 @@
+{
+  "total_images": 321,
+  "successful": 0,
+  "failed": 321,
+  "model": "paddleocr",
+  "language": "th",
+  "timestamp": "2026-04-02T13:12:52.581708",
+  "average_confidence": 0
+}
