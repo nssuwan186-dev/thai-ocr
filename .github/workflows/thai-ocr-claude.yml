@@ -1,0 +1,51 @@
+name: 🇹🇭 Thai Hotel OCR - Claude Vision
+
+on:
+  workflow_dispatch:
+    inputs:
+      image_folder:
+        description: 'Folder in repo containing images'
+        required: false
+        default: 'images'
+  push:
+    paths:
+      - 'images/**'
+      - 'drive-downloads/**'
+
+permissions:
+  contents: write
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v5
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install anthropic pillow
+
+      - name: 🔍 Run Thai OCR with Claude Vision
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          IMAGE_FOLDER: ${{ github.event.inputs.image_folder || 'images' }}
+        run: |
+          python scripts/ocr_hotel_form.py \
+            --folder "$IMAGE_FOLDER" \
+            --output results/ocr_result.json
+
+      - name: 📊 Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/
+          git diff --staged --quiet || git commit -m "📊 OCR: update results [skip ci]"
+          git push || echo "No changes to push"
