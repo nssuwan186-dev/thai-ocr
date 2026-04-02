@@ -89,7 +89,7 @@ def extract_hotel_data(text):
 def run_ocr(folder, output):
     # Initialize PaddleOCR (Thai language)
     print("🤖 Loading PaddleOCR (Thai)...")
-    ocr = PaddleOCR(use_angle_cls=True, lang='th', show_log=False)
+    ocr = PaddleOCR(use_angle_cls=True, lang='th')
     
     image_folder = Path(folder)
     if not image_folder.exists():
