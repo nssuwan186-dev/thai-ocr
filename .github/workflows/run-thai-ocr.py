@@ -85,7 +85,8 @@ def run_paddleocr(image_path, lang='th'):
         return "", 0
     
     try:
-        ocr = PaddleOCR(use_angle_cls=True, lang=lang, show_log=False)
+        # Use newer API without deprecated arguments
+        ocr = PaddleOCR(use_angle_cls=True, lang=lang)
         result = ocr.ocr(image_path, cls=True)
         
         text = ''
