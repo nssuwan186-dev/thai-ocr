@@ -112,8 +112,8 @@ def run_ocr(folder, output):
         print(f"  🔍 {img_path.name}...", end=" ", flush=True)
         
         try:
-            # Run OCR
-            result = ocr.ocr(str(img_path), cls=True)
+            # Run OCR (new API - without cls parameter)
+            result = ocr.ocr(str(img_path))
             
             # Extract text
             text = ''
