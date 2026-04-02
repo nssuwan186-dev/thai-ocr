@@ -11,9 +11,10 @@ on:
       model:
         description: 'OCR Model to use'
         required: false
-        default: 'paddleocr'
+        default: 'typhoon'
         type: choice
         options:
+          - typhoon
           - paddleocr
           - easyocr
 
@@ -35,28 +36,53 @@ jobs:
     - name: 🐍 Setup Python
       uses: actions/setup-python@v6
       with:
-        python-version: '3.11'
+        python-version: '3.10'
 
-    - name: 📦 Install Deep Learning OCR
+    - name: 📦 Install Typhoon OCR (Best for Thai)
+      if: github.event.inputs.model == 'typhoon' || github.event.inputs.model == ''
       run: |
-        # Install OCR model based on input
-        if [ "${{ github.event.inputs.model }}" == "easyocr" ]; then
-          echo "Installing EasyOCR..."
-          pip install easyocr
-        else
-          echo "Installing PaddleOCR..."
-          pip install paddlepaddle paddleocr
-        fi
+        echo "Installing Typhoon OCR - Best for Thai Language..."
+        pip install typhoon-ocr
+        echo "✅ Typhoon OCR installed"
 
-        # Install other dependencies
+    - name: 📦 Install PaddleOCR
+      if: github.event.inputs.model == 'paddleocr'
+      run: |
+        echo "Installing PaddleOCR..."
+        pip install paddlepaddle paddleocr
         pip install pillow numpy pandas tqdm
 
-    - name: 🔍 Run Thai OCR
+    - name: 📦 Install EasyOCR
+      if: github.event.inputs.model == 'easyocr'
+      run: |
+        echo "Installing EasyOCR..."
+        pip install easyocr
+        pip install pillow numpy pandas tqdm
+
+    - name: 🔍 Run Thai OCR with Typhoon
+      if: github.event.inputs.model == 'typhoon' || github.event.inputs.model == ''
+      run: |
+        python .github/workflows/run-typhoon-ocr.py \
+          --input-dir images \
+          --output-dir results \
+          --lang th
+
+    - name: 🔍 Run Thai OCR with PaddleOCR
+      if: github.event.inputs.model == 'paddleocr'
       run: |
         python .github/workflows/run-thai-ocr.py \
           --input-dir images \
           --output-dir results \
-          --model ${{ github.event.inputs.model || 'paddleocr' }} \
+          --model paddleocr \
+          --lang th
+
+    - name: 🔍 Run Thai OCR with EasyOCR
+      if: github.event.inputs.model == 'easyocr'
+      run: |
+        python .github/workflows/run-thai-ocr.py \
+          --input-dir images \
+          --output-dir results \
+          --model easyocr \
           --lang th
 
     - name: 📊 Commit Results
@@ -83,8 +109,8 @@ jobs:
       run: |
         echo "## 📊 OCR Summary" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        echo "### Models Used" >> $GITHUB_STEP_SUMMARY
-        echo "- Model: ${{ github.event.inputs.model || 'paddleocr' }}" >> $GITHUB_STEP_SUMMARY
+        echo "### Model Used" >> $GITHUB_STEP_SUMMARY
+        echo "- Model: ${{ github.event.inputs.model || 'typhoon' }}" >> $GITHUB_STEP_SUMMARY
         echo "- Language: Thai" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "### Results" >> $GITHUB_STEP_SUMMARY
